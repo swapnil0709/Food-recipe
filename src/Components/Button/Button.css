@@ -1,0 +1,37 @@
+.addbutton {
+  width: 200px;
+  height: 40px;
+  background: #eba136;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 3px;
+  margin-left: 85%;
+  position: absolute;
+  color: white;
+  cursor: pointer;
+}
+
+.add {
+  width: 200px;
+  height: 40px;
+  margin: 15px;
+  background: #eba136;
+  font-size: 15px;
+  cursor: pointer;
+}
+.recipeCard button {
+  background-color: white;
+  color: black;
+  border-radius: 4px;
+  font-size: 20px;
+  padding: 10px;
+  cursor: pointer;
+}
+.recipeCard button:hover {
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+  font-size: 20px;
+  padding: 10px;
+  cursor: pointer;
+}
